@@ -3,3 +3,14 @@ I am Gideon, a dedicated Full Stack Engineer with a strong passion for technolog
 
 [LinkedIn](https://www.linkedin.com/in/gideon-kiplagat-2669761ba/) [GMAIL](mailto:kiplagatgideon00@gmail.com) [Twitter](https://twitter.com/kiplagatTruth)
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/gideon-kiplagat-2669761ba/">
+    <img src="gideonkiplagat/gideonkiplagat/linkedin-logo.png" alt="LinkedIn" width="30" height="30">
+  </a>
+  <a href="mailto:kiplagatgideon00@gmail.com">
+    <img src="gideonkiplagat/gideonkiplagat/gmail-logo.png" alt="Gmail" width="30" height="30">
+  </a>
+  <a href="https://twitter.com/kiplagatTruth">
+    <img src="gideonkiplagat/gideonkiplagat/twitter-logo.png" alt="Twitter" width="30" height="30">
+  </a>
+</p>
