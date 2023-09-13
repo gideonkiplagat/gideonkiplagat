@@ -4,13 +4,13 @@ I am Gideon, a dedicated Full Stack Engineer with a strong passion for technolog
 [LinkedIn](https://www.linkedin.com/in/gideon-kiplagat-2669761ba/) [GMAIL](mailto:kiplagatgideon00@gmail.com) [Twitter](https://twitter.com/kiplagatTruth)
 <p align="center">
   <a href="https://www.linkedin.com/in/gideon-kiplagat-2669761ba/">
-    <img src="https://raw.githubusercontent.com/gideonkiplagat/gideonkiplagat/main/pngwing.com.png" alt="LinkedIn" width="30" height="30">
+    <img src="https://raw.githubusercontent.com/gideonkiplagat/main/pngwing.com.png" alt="LinkedIn" width="30" height="30">
   </a>
   <a href="mailto:kiplagatgideon00@gmail.com">
-    <img src="https://raw.githubusercontent.com/gideonkiplagat/gideonkiplagat/main/pngwing.com(2).png" alt="Gmail" width="30" height="30">
+    <img src="https://raw.githubusercontent.com/gideonkiplagat/main/pngwing.com(2).png" alt="Gmail" width="30" height="30">
   </a>
   <a href="https://twitter.com/kiplagatTruth">
-    <img src="https://raw.githubusercontent.com/gideonkiplagat/gideonkiplagat/main/pngwing.com(1).png" alt="Twitter" width="30" height="30">
+    <img src="https://raw.githubusercontent.com/gideonkiplagat/main/pngwing.com(1).png" alt="Twitter" width="30" height="30">
   </a>
 </p>
 
